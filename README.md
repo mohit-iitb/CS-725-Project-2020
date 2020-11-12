@@ -6,6 +6,8 @@ https://talhassner.github.io/home/publication/2017_TPAMI_2 <br>
 https://github.com/kalyanghosh/Face-Detection-using-CNN <br>
 keras tuner for hyper parameter selection --><br> https://www.youtube.com/watch?v=OzLAdpqm35E, https://colab.research.google.com/drive/1kPO_YjAyNjc6YeRnw2b3dTkjEKhq0MOl, https://keras-team.github.io/keras-tuner/ <br>
 cifar-10 dataset project : https://www.youtube.com/watch?v=iGWbqhdjf2s
+## Requirements :<br>
+1. Datasets : MNIST, CIFAR-10
 ## Step 1: Implemented simple MNIST data classification using TF and Keras
 https://colab.research.google.com/drive/1s2Vhfa616X-iGIyFQ7d6v5IZrCKnmCo2?usp=sharing
 ## Step 2: CNN model 
